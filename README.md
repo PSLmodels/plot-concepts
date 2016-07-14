@@ -12,6 +12,8 @@ Your concept proposal should contain:
 
 See the [issues](https://github.com/open-source-economics/plot_concepts/issues) in this repository for examples of other concept proposals.
 
+You can also review [outstanding proposals](https://github.com/open-source-economics/plot_concepts/issues) and leave comments and suggestions. 
+
 
 
 
